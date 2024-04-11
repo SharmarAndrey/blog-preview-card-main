@@ -76,3 +76,8 @@ h1 {
 h1:hover {
 	color: rgb(251, 255, 1);
 }
+@media (min-width: 1440px) {
+	.name:hover{
+		color:red
+
+}

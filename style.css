@@ -50,6 +50,7 @@ h1 {
 	font-size: 16px;
 	color: hsl(0, 0%, 50%);
 }
+<<<<<<< HEAD
 .greg {
 	display: flex;
 	align-items: end;
@@ -60,3 +61,17 @@ h1 {
 }
 .footer {
 }
+=======
+.greg{
+	display: flex;
+	align-items: end;
+}
+.name{
+	display: flex;
+}
+.footer{
+  margin-top: 100px ;
+
+
+}
+>>>>>>> 8cb349cff48208af950af7257c9bc79fb2f87f99

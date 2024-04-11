@@ -4,6 +4,7 @@
 body {
 	background-color: #f3d05c;
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
@@ -52,8 +53,13 @@ h1 {
 }
 .greg{
 	display: flex;
+	align-items: end;
 }
 .name{
 	display: flex;
-	align-items: end;
+}
+.footer{
+  margin-top: 100px ;
+
+
 }
